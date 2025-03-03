@@ -34,6 +34,9 @@ This project demonstrates HTML form validation using pure JavaScript. It include
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/5df52b9c-ec3f-4cbe-9581-7203802c44ca)
 ![image](https://github.com/user-attachments/assets/3ac9e2c5-5183-4f11-9d50-d68ef6037ca6)
+![image](https://github.com/user-attachments/assets/2e390456-3565-47f5-9c07-223831f30b62)
+![image](https://github.com/user-attachments/assets/c55737c8-acb2-4173-a9d4-80d7abfbb24f)
+![image](https://github.com/user-attachments/assets/1351bac1-74c3-4c3b-9256-46d497259050)
 
 
 ## Field Descriptions
