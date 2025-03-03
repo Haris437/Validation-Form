@@ -32,13 +32,10 @@ This project demonstrates HTML form validation using pure JavaScript. It include
 3. **JavaScript Commit**: Implemented front-end validation for all form fields using JavaScript and regex.
 
 ## Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![Password validation](image-5.png)
-![sign-up page](image-6.png)
+![image](https://github.com/user-attachments/assets/5df52b9c-ec3f-4cbe-9581-7203802c44ca)
+![image](https://github.com/user-attachments/assets/3ac9e2c5-5183-4f11-9d50-d68ef6037ca6)
+
+
 ## Field Descriptions
 
 - **Username**: Cannot be empty.
